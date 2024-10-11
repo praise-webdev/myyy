@@ -1,0 +1,182 @@
+.African{
+   
+    text-align: center;
+    background-color: #F7DEEB;
+    margin-top: 10px;
+    padding: 70px;
+
+}
+.praise{
+  padding: 10px;
+  
+
+}
+
+#gallery_image1 {
+    position: relative;
+   justify-content: right;
+   margin-top: -420px;
+  }
+.mylist{
+    margin-left: 100px;
+    padding-right: 50px;
+}
+
+.myicons{
+  display: flex;
+  position: absolute;
+  margin-left: -480px;
+  margin-top: -200px;
+  
+
+}
+
+.praise1{
+
+    text-align: center;
+    background-color: lightblue;
+    padding: 10px;
+    color: black;
+   
+    
+   
+  }
+
+  
+
+  .mypic{
+
+    position: relative;
+    margin-left: 450px;
+    margin-top: -300PX;
+  }
+
+.myform{
+
+padding-left: 450px;
+
+}
+
+.mycaurosel{
+  margin-bottom: 50px;
+
+
+}
+
+.mycart{
+
+  position: absolute;
+  margin-top: 10px;
+  margin-left: -10px;
+
+}
+
+.container1{
+
+  position: relative;
+  list-style-type: none;
+  
+}
+
+
+
+.Latestnews{
+ 
+  margin-left: 20px;
+  margin-bottom: 30px;
+
+}
+
+
+.mybutton{
+
+text-align: center;
+padding: 20px;
+
+ 
+}
+
+#myown{
+
+list-style-type: none;
+text-align: center;
+
+}
+
+#myown1{
+
+  position: relative;
+  
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+/* Customize page styles here */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+form {
+  border: 2px solid #ccc;
+  background-color: #fff;
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+
+
